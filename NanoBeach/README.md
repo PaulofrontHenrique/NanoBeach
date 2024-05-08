@@ -1,5 +1,5 @@
 # Nano Beach Site
-Acesse o site aqui --> https://nano-beach.vercel.app
+(Irei realizar o deploy da aplicação posteriormente. 
 
 ![image](https://github.com/DanielTomazi/NanoBeach/blob/main/Nano%20Beach/img/img-demo.png)
 ****
